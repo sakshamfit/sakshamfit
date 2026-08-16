@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# portrait-only (not needed by the daily workflow):
+pillow
+numpy
+opencv-python<5           # 5.x headless drops cv2.objdetect (face detect)
+rembg

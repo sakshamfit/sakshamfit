@@ -1,0 +1,16 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# rembg model cache (176MB, downloaded on demand)
+.u2net/
+.cache/
+
+# local-only preview harness
+preview.html
+
+# never commit secrets
+.env
+.env.*
+*.pem
