@@ -34,7 +34,7 @@ ROWS = 0   # 0 = derive from the photo's aspect ratio (chars are ~2x tall)
 RAMP = " .`:-=+*cs#%@"  # bright (sparse) -> dark (dense)
 
 # tone controls - tweak these if your photo comes out too dark or too washed
-GAMMA = float(os.environ.get("GAMMA", "0.95"))  # <1 lightens, >1 darkens
+GAMMA = float(os.environ.get("GAMMA", "1.25"))  # <1 lightens, >1 darkens
 
 CH_W = 6.2            # character advance for the mono font at FONT_PX
 CH_H = 11.0
