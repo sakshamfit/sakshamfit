@@ -1,15 +1,15 @@
 {
   "user": "sakshamfit",
-  "generated_at": "2026-10-24T10:54:39+00:00",
+  "generated_at": "2026-10-25T11:22:00+00:00",
   "range": {
-    "from": "2025-10-19",
-    "to": "2026-10-24"
+    "from": "2025-10-26",
+    "to": "2026-10-25"
   },
   "stats": {
-    "total": 1022,
-    "days_active": 89,
-    "current_streak": 73,
-    "longest_streak": 73,
+    "total": 1035,
+    "days_active": 91,
+    "current_streak": 75,
+    "longest_streak": 75,
     "best_day": {
       "date": "2026-10-19",
       "count": 57
@@ -30,44 +30,9 @@
     "2026-07": 10,
     "2026-08": 360,
     "2026-09": 402,
-    "2026-10": 218
+    "2026-10": 231
   },
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1885,8 +1850,13 @@
     },
     {
       "date": "2026-10-24",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
+      "count": 12,
+      "level": 2
     }
   ]
 }
